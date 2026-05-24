@@ -1,0 +1,14 @@
+torch==2.5.0
+torchvision==0.20.0
+anomalib==2.4.2
+matplotlib
+opencv-python
+scikit-learn
+scipy
+tqdm
+tensorboard
+PyWavelets
+opencv-contrib-python
+pandas
+timm
+scikit-image
